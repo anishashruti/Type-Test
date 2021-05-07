@@ -1,0 +1,19 @@
+.test-container{
+    background-color: rgb(231, 232, 235);
+    margin: 64px 0px;
+    margin-right: 10%;
+    margin-left: 10%;
+    min-height: 750px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 1px 30px rgb(3, 10, 49);
+    font-family: 'Montserrat', sans-serif;
+}
+
+.try-again-container{
+    display: flex;
+    flex-grow: 1;
+    flex-direction: column;
+    justify-content: center;
+    
+}

@@ -1,0 +1,31 @@
+.details-card-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    padding: 10px;
+    box-shadow:0 1px 3px rgb(28, 30, 56);
+    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+.details-card-container> p {
+    margin: 0;
+}
+
+.details-card-container:hover {
+    box-shadow: 0 1px 30px rgb(230, 230, 61);
+}
+
+.card-name {
+    font-size: 15px;
+    padding-top: 16px;
+    margin-bottom: -15px ;
+}
+
+.card-value {
+    font-size: 50px;
+    font-weight: 800;
+    padding-top: 16px;
+    margin: 10;
+}

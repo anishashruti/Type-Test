@@ -1,0 +1,12 @@
+body{
+    margin:0;
+    box-sizing: border-box;
+    font-family: 'Exo', sans-serif;
+
+}
+
+.app{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(1, 1, 27);
+}
