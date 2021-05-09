@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/anishashruti/Type-Test/static/css/main.f005884a.chunk.css",
-    "main.js": "/anishashruti/Type-Test/static/js/main.9135c9e6.chunk.js",
-    "main.js.map": "/anishashruti/Type-Test/static/js/main.9135c9e6.chunk.js.map",
-    "runtime-main.js": "/anishashruti/Type-Test/static/js/runtime-main.33bbcd42.js",
-    "runtime-main.js.map": "/anishashruti/Type-Test/static/js/runtime-main.33bbcd42.js.map",
-    "static/js/2.122533e2.chunk.js": "/anishashruti/Type-Test/static/js/2.122533e2.chunk.js",
-    "static/js/2.122533e2.chunk.js.map": "/anishashruti/Type-Test/static/js/2.122533e2.chunk.js.map",
-    "index.html": "/anishashruti/Type-Test/index.html",
-    "static/css/main.f005884a.chunk.css.map": "/anishashruti/Type-Test/static/css/main.f005884a.chunk.css.map",
-    "static/js/2.122533e2.chunk.js.LICENSE.txt": "/anishashruti/Type-Test/static/js/2.122533e2.chunk.js.LICENSE.txt",
-    "static/media/Naruto.d7b3eeac.png": "/anishashruti/Type-Test/static/media/Naruto.d7b3eeac.png",
-    "static/media/The StarGirl copy.bb5c9376.png": "/anishashruti/Type-Test/static/media/The StarGirl copy.bb5c9376.png",
-    "static/media/The StarGirl.bb5c9376.png": "/anishashruti/Type-Test/static/media/The StarGirl.bb5c9376.png",
-    "static/media/flash.fae3cf9d.png": "/anishashruti/Type-Test/static/media/flash.fae3cf9d.png"
+    "main.css": "/anishashruti/Type-Test/start-game/static/css/main.f005884a.chunk.css",
+    "main.js": "/anishashruti/Type-Test/start-game/static/js/main.9135c9e6.chunk.js",
+    "main.js.map": "/anishashruti/Type-Test/start-game/static/js/main.9135c9e6.chunk.js.map",
+    "runtime-main.js": "/anishashruti/Type-Test/start-game/static/js/runtime-main.33dfd1d8.js",
+    "runtime-main.js.map": "/anishashruti/Type-Test/start-game/static/js/runtime-main.33dfd1d8.js.map",
+    "static/js/2.122533e2.chunk.js": "/anishashruti/Type-Test/start-game/static/js/2.122533e2.chunk.js",
+    "static/js/2.122533e2.chunk.js.map": "/anishashruti/Type-Test/start-game/static/js/2.122533e2.chunk.js.map",
+    "index.html": "/anishashruti/Type-Test/start-game/index.html",
+    "static/css/main.f005884a.chunk.css.map": "/anishashruti/Type-Test/start-game/static/css/main.f005884a.chunk.css.map",
+    "static/js/2.122533e2.chunk.js.LICENSE.txt": "/anishashruti/Type-Test/start-game/static/js/2.122533e2.chunk.js.LICENSE.txt",
+    "static/media/Naruto.d7b3eeac.png": "/anishashruti/Type-Test/start-game/static/media/Naruto.d7b3eeac.png",
+    "static/media/The StarGirl copy.bb5c9376.png": "/anishashruti/Type-Test/start-game/static/media/The StarGirl copy.bb5c9376.png",
+    "static/media/The StarGirl.bb5c9376.png": "/anishashruti/Type-Test/start-game/static/media/The StarGirl.bb5c9376.png",
+    "static/media/flash.fae3cf9d.png": "/anishashruti/Type-Test/start-game/static/media/flash.fae3cf9d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.33bbcd42.js",
+    "static/js/runtime-main.33dfd1d8.js",
     "static/js/2.122533e2.chunk.js",
     "static/css/main.f005884a.chunk.css",
     "static/js/main.9135c9e6.chunk.js"
