@@ -1,8 +1,17 @@
 import React from "react"
 import './TypingChallenge.css'
+import RealChallenge from "../RealChallenge/RealChallenge"
 import ChallengeDetailsCard from "../ChallengeDetailsCard/ChallengeDetailsCard"
 
-const TypingChallenge = ({ words, characters, wpm }) => {
+const TypingChallenge = ({    selectedParagraph,
+    timerStarted,
+    timeRemaining,
+    words,
+    characters,
+    wpm,
+    testInfo,
+    inputValue
+}) => {
     return (
         <div className="typing-challenge-container">
             <div className="details-container">
@@ -10,11 +19,16 @@ const TypingChallenge = ({ words, characters, wpm }) => {
                 <ChallengeDetailsCard cardName="Characters" cardValue={ characters}/>
                 <ChallengeDetailsCard cardName="Words Per Minute" cardValue={wpm} />
             </div>
-            {/* <div className="challenges-container">
-            
-            </div> */}
             <div className="real-container">
-            <p>The real challenge</p>
+                <RealChallenge words={words}
+                    characters={characters}
+                    wpm={wpm}
+                    selectedParagraph={selectedParagraph}
+                    timerStarted={timerStarted}
+                    testInfo={testInfo}
+                    timeRemaining={timeRemaining}
+                    inputValue={inputValue}
+                />
             </div>
         </div>
 

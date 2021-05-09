@@ -1,0 +1,78 @@
+.real-challenge-container{
+    display:flex;
+    flex-direction:column;
+    flex-grow:1;
+    align-items: center;
+    justify-content:center;
+}
+
+.timer-container{
+    margin: 16px;
+}
+
+.timer{
+font-size:36px;
+font-weight:600px;
+margin: 0px;
+text-align: center;
+}
+
+.description{
+    margin: 0;
+    margin-top: -5px;
+    color: #dd5044;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+.test-area{
+    margin: 16px;
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+    width: 80%;
+    font-weight: bold;
+    padding-bottom: 50px;
+}
+
+.test-area-left,
+.test-area-right
+{
+    display: flex;
+    width: 100%;
+    flex-grow: 1;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.24);
+    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+.test-area-left:hover{
+    box-shadow:  0 1px 20px rgb(8, 6, 19);
+}
+.test-area-right:hover{
+    box-shadow:  0 1px 20px rgb(8, 6, 19);
+}
+.typing-test{
+    text-align: left;
+    flex-grow: 1;
+    height: 97%;
+    width: 50%;
+    padding: 10px;
+    line-height: 18px;
+    flex-wrap: wrap;
+    overflow: scroll;
+}
+
+.typing-test::-webkit-scrollbar{
+    display: none;
+}
+
+.typing-test{
+    -ms-overflow-style: none;
+    scrollbar-width: none; 
+}
+.test-area-paragraph{
+
+    background: #76798156;
+    padding: 20px;
+    width: 100%;
+
+}

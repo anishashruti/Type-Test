@@ -22,7 +22,7 @@ const LandingPage = () => {
                 </div>
             </div>
             <div className="Landing-Right">
-                <img classname="Image" src={im} alt="naruto"></img>
+                <img className="Image" src={im} alt="naruto"></img>
             </div>
 
         </div>
