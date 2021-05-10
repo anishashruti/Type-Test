@@ -1,11 +1,11 @@
-#Type Test
+# Type Test
 
 Anyone can test their typing skills by undergoing this simple test.
 
-##Deployed Project:
+## Deployed Project:
 http://anishashruti.github.io/Type-Test/
 
-##Things I learned from this Project :relaxed:
+## Things I learned from this Project :relaxed:
 
 _**Learning outcomes:**_
 
@@ -21,7 +21,7 @@ _**Learning outcomes:**_
 - **React Hools**
 - **Deployment of React App**
 
-##Images
+## Images
 ![Image 1](https://github.com/anishashruti/Type-Test/blob/main/images/TypeTest1.PNG)
 ![Image 2](https://github.com/anishashruti/Type-Test/blob/main/images/TypeTest2.PNG)
 ![Image 3](https://github.com/anishashruti/Type-Test/blob/main/images/TypeTest3.PNG)
