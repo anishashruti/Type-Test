@@ -22,9 +22,9 @@ _**Learning outcomes:**_
 - **Deployment of React App**
 
 ##Images
-![Image 1](https://anishashruti.github.com/Type-Test/images/TypeTest1.png)
-![Image 2](https://anishashruti.github.com/Type-Test/images/TypeTest2.png)
-![Image 3](https://anishashruti.github.com/Type-Test/images/TypeTest3.png)
+![Image 1](https://github.com/anishashruti/Type-Test/blob/main/images/TypeTest1.PNG)
+![Image 2](https://github.com/anishashruti/Type-Test/blob/main/images/TypeTest2.PNG)
+![Image 3](https://github.com/anishashruti/Type-Test/blob/main/images/TypeTest3.PNG)
 
 ##Algorithm
 
