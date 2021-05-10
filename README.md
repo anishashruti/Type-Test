@@ -26,7 +26,7 @@ _**Learning outcomes:**_
 ![Image 2](https://github.com/anishashruti/Type-Test/blob/main/images/TypeTest2.PNG)
 ![Image 3](https://github.com/anishashruti/Type-Test/blob/main/images/TypeTest3.PNG)
 
-##Algorithm
+## Algorithm
 
 1. **Handle the underflow case** 
     - all characters should be shown as not-attempted.
