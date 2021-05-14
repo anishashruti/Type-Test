@@ -18,7 +18,8 @@ _**Learning outcomes:**_
 - **Simple Animations**
 - **Class Based Component**
 - **Functional Components**
-- **React Hools**
+- **React Hooks**
+- **Usage of API**
 - **Deployment of React App**
 
 ## Images
