@@ -3,7 +3,7 @@
 Anyone can test their typing skills by undergoing this simple test.
 
 ## Deployed Project:
-http://anishashruti.github.io/Type-Test/
+[Start your Test!](http://anishashruti.github.io/Type-Test/)
 
 ## Things I learned from this Project :relaxed:
 
